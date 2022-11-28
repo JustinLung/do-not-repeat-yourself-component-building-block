@@ -2,8 +2,8 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
-
+# Don't Repeat Yourself Component Building Block
+![Card component design](https://user-images.githubusercontent.com/34651215/204229153-ed0a0337-3ba2-4aed-b283-4db3003335a7.png)
 
 ## Licentie
 
